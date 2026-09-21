@@ -1,6 +1,6 @@
 # Hokie Trade
 
-A peer-to-peer marketplace built exclusively for Virginia Tech students to buy, sell, and trade textbooks, course supplies, dorm gear, and peer services (like tutoring) — searchable by course number and verified by VT email.
+A peer-to-peer marketplace built exclusively for Virginia Tech students to buy, sell, and trade textbooks, course supplies, dorm gear, and peer services (like tutoring), searchable by course number and verified by VT email.
 
 ## The Problem
 VT students regularly buy, sell, or trade goods and services with one another, but no dedicated platform supports this exchange within the campus community. Students currently rely on general-purpose tools (Facebook Marketplace, GroupMe, Instagram pages, flyers), none of which verify the other party is a VT student or let you search by course number.
